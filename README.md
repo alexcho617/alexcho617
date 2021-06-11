@@ -1,4 +1,6 @@
 ### Hi I'm Alex! 👋
+Visit My velog :)
+https://velog.io/@alexcho617
 <!--
 **alexcho617/alexcho617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
