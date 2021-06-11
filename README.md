@@ -1,5 +1,4 @@
-### Hi there 👋
-/play sexyback
+### Hi I'm Alex! 👋
 <!--
 **alexcho617/alexcho617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
