@@ -2,7 +2,7 @@
 Visit My velog :)
 https://velog.io/@alexcho617
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcho617)](https://github.com/alexcho617/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcho617&show_icons=true&theme=swift)]
 <!--
 **alexcho617/alexcho617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
