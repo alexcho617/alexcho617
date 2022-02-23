@@ -1,4 +1,4 @@
-### Hi I'm Alex! 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Alex Cho&fontSize=70&animation=twinkling)
 
 <p align="center">
 🇰🇷🇨🇦
@@ -16,5 +16,8 @@
 </p>
 
 
-![Alex Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcho617&show_icons=true&theme=swift)
 
+
+<p align="center">
+![Alex Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcho617&show_icons=true&theme=swift)
+</p>
