@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Alex Cho&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YeonsuIm&fontSize=70&animation=twinkling)
 
 <p align="center">
 🇰🇷🇨🇦
@@ -20,4 +20,8 @@
 
 <p align="center">
 ![Alex Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcho617&show_icons=true&theme=swift)
+</p>
+
+<p align="center">
+  <img align="center"src="https://github-readme-stats.vercel.app/api?username=yxxnsu&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide=stars,contribs&locale=kr" alt="Github stats" />
 </p>
