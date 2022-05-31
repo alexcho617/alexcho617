@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=AlexCho&fontSize=70&animation=twinkling)
 
 <p align="center">
-🇰🇷🇨🇦
+🇰🇷🇨🇦🇪🇸
+</p>
+<p align="center">
+  <a href="https://velog.io/@alexcho617"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@alexcho617"/></a>&nbsp
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -11,9 +14,6 @@
   <img src="https://img.shields.io/badge/Flutter-007396?style=flat-square&logo=Flutter&logoColor=white&color=blue"/></a>&nbsp 
 </p>
 
-<p align="center">
-  <a href="https://velog.io/@alexcho617"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@alexcho617"/></a>&nbsp
-</p>
 
 
 <p align="center">
