@@ -5,9 +5,7 @@
 </p>
 <p align="center">
   <a href="https://velog.io/@alexcho617"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@alexcho617"/></a>
-  
   <a href="https://alexcho617.wixsite.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-ffd966?style=flat-square&logo=Wix&logoColor=white&link=https://alexcho617.wixsite.com/portfolio"/></a>
-  &nbsp   
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
