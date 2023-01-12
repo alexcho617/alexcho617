@@ -17,6 +17,7 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img align="center"src="https://github-readme-stats.vercel.app/api?username=alexcho617&theme=swift&show_icons=true&count_private=true&include_all_commits=true&hide=stars,contribs&locale=kr" alt="Github stats" />
 </p>
+ -->
